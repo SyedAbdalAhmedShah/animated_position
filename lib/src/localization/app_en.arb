@@ -1,0 +1,6 @@
+{
+  "appTitle": "animated_position",
+  "@appTitle": {
+    "description": "The title of the application"
+  }
+}
